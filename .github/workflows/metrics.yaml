@@ -1,0 +1,73 @@
+# [TITLE]   Metrics
+# [INFO]    This workflow automatically exports Low Lighter metrics to the 
+# [MORE]    README.md file.
+# [LINK]    https://github.com/lowlighter/metrics
+# [LINK]    https://metrics.lecoq.io/
+
+# [SYNTAX]  name
+# [INFO]    The name of your workflow. GitHub displays the names of your workflows on your
+# [MORE]    repository.
+name: Metrics
+
+# [SYNTAX]  on.schedule
+# [INFO]    You can schedule a workflow to run at specific UTC times using POSIX cron syntax.
+# [MORE]    Scheduled workflows run on the latest commit on the default or base branch. 
+# [VALUE]   cron
+# [INFO]    Cron syntax has five fields separated by a space, and each field represents a unit
+# [MORE]    of time. The meanings of the expressions from left to right.
+# [PARAM]   1st Parameter: minute (0-59)
+# [PARAM]   2nd Parameter: hour (0-23)
+# [PARAM]   3rd Parameter: day of the month (1-31)
+# [PARAM]   4th Parameter: month (1-12 or JAN/DEC)
+# [PARAM]   5th Parameter: day of the week (0-6 or SUN-SAT)
+# [SPEC]    '*': Any value
+# [SPEC]    ',': Value list separator
+# [SPEC]    '-': Range of values
+# [SPEC]    '/': Step values
+
+# [SYNTAX]  workflow_dispatch
+# [INFO]    Allows manual triggering of the workflow.
+
+# [SYNTAX]  on.<push|pull_request>.<branches|tags>
+# [SYNTAX]  branches
+# [INFO]    When using the push and pull_request events, you can configure
+# [MORE]    a workflow to run on specific branches or tags. For a pull_request
+# [MORE]    event, only branches and tags on the base are evaluated.
+# [VALUE]  "main"
+# [INFO]    Push events on main branch
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+  
+# [SYNTAX]  jobs.<job_id>.runs-on
+# [INFO]    The type of machine to run the job on. The machine can be either a
+# [MORE]    GitHub-hosted runner or a self-hosted runner.
+
+# [SYNTAX]  jobs.<job_id>.steps[*].uses
+# [INFO]    Selects an action to run as part of a step in your job. An action is a
+# [MORE]    reusable unit of code. You can use an action defined in the same repository
+# [MORE]    as the workflow, a public repository, or in a published Docker container image.
+
+# [SYNTAX]  jobs.<job_id>.steps[*].with.args
+# [INFO]    A string that defines the inputs for a Docker container. GitHub passes the args
+# [MORE]    to the container's ENTRYPOINT when the container starts up. An array of strings
+# [MORE]    is not supported by this parameter.
+jobs:
+  # <job-id>: low-lighter-metrics
+  low-lighter-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: sercansebetci
+          template: classic
+          base: header
+          config_timezone: Europe/Istanbul
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%

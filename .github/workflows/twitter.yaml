@@ -1,0 +1,89 @@
+# [TITLE]   Twitter
+# [INFO]    This workflow automatically places the last activity in Twitter in the 
+# [MORE]    README.md file.
+
+# [SYNTAX]  name
+# [INFO]    The name of your workflow. GitHub displays the names of your workflows on your
+# [MORE]    repository.
+name: Twetter
+
+# [SYNTAX]  on
+# [INFO]    The name of the GitHub event that triggers the workflow. You can provide a single
+# [MORE]    event string, array of events, array of event types, or an event configuration map
+# [MORE]    that schedules a workflow or restricts the execution of a workflow to specific files,
+# [MORE]    tags, or branch changes.
+
+# [SYNTAX]  repository_dispatch
+# [INFO]    You can use the GitHub API to trigger a webhook event called repository_dispatch
+# [MORE]    when you want to trigger a workflow for activity that happens outside of GitHub.
+
+# [SYNTAX]  on.schedule
+# [INFO]    You can schedule a workflow to run at specific UTC times using POSIX cron syntax.
+# [MORE]    Scheduled workflows run on the latest commit on the default or base branch. 
+# [VALUE]   cron
+# [INFO]    Cron syntax has five fields separated by a space, and each field represents a unit
+# [MORE]    of time. The meanings of the expressions from left to right.
+# [PARAM]   1st Parameter: minute (0-59)
+# [PARAM]   2nd Parameter: hour (0-23)
+# [PARAM]   3rd Parameter: day of the month (1-31)
+# [PARAM]   4th Parameter: month (1-12 or JAN/DEC)
+# [PARAM]   5th Parameter: day of the week (0-6 or SUN-SAT)
+# [SPEC]    '*': Any value
+# [SPEC]    ',': Value list separator
+# [SPEC]    '-': Range of values
+# [SPEC]    '/': Step values
+on:
+  repository_dispatch:
+    types: [opened, deleted, tweet]
+  schedule:
+    - cron: '0 0 * * *'
+
+# [SYNTAX]  jobs.<job_id>.runs-on
+# [INFO]    The type of machine to run the job on. The machine can be either a
+# [MORE]    GitHub-hosted runner or a self-hosted runner.
+
+# [SYNTAX]  jobs.<job_id>.steps[*].uses
+# [INFO]    Selects an action to run as part of a step in your job. An action is a
+# [MORE]    reusable unit of code. You can use an action defined in the same repository
+# [MORE]    as the workflow, a public repository, or in a published Docker container image.
+
+# [SYNTAX]  jobs.<job_id>.steps[*].name
+# [INFO]    A name for your step to display on GitHub.
+
+# [SYNTAX]  jobs.<job_id>.steps[*].run
+# [INFO]    Runs command-line programs using the operating system's shell. If you do not
+# [MORE]    provide a name, the step name will default to the text specified in the run command.
+
+# [SYNTAX]  jobs.<job_id>.steps[*].env
+# [INFO]    Sets environment variables for steps to use in the runner environment. You can
+# [MORE]    also set environment variables for the entire workflow or a job.
+jobs:
+  # <job-id>: twitter-build
+  twitter-build:
+    runs-on: macOS-latest
+    steps:
+    - uses: actions/checkout@v1
+    - uses: r-lib/actions/setup-r@v1
+    - name: Install Package Dependencies
+      run: |-
+        Rscript -e "install.packages('remotes')"
+        Rscript -e "remotes::install_github('gadenbuie/tweetrmd')"
+        Rscript -e "remotes::install_github('rstudio/webshot2')"
+        Rscript -e "install.packages('rtweet')"
+    - name: Generate Twitter Image
+      env:
+        ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+        ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+        CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+        CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+      run: |-
+        Rscript -e "source('script.r')"
+    - name: Commit And Push If Changed
+      run: |-
+        git fetch
+        git add .
+        git diff
+        git config --global user.email "sercansebetci@gmail.com"
+        git config --global user.name "sercansebetci"
+        git commit -m "twitter-bot > the latest tweet has been updated." -a || echo "twitter-bot > No changes to commit"
+        git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git HEAD:${{ github.ref }} || echo "No changes to commit"

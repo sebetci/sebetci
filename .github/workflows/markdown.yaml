@@ -1,0 +1,33 @@
+# [TITLE]   Markdown Links Check
+# [INFO]    This workflow checks links in markdown files.
+# [LINK]    https://github.com/gaurav-nelson/github-action-markdown-link-check
+
+# [SYNTAX]  name
+# [INFO]    The name of your workflow. GitHub displays the names of your workflows on your
+# [MORE]    repository.
+name: Markdown Links Check
+
+# [SYNTAX]  on.<push|pull_request>.<branches|tags>
+# [SYNTAX]  branches
+# [INFO]    When using the push and pull_request events, you can configure
+# [MORE]    a workflow to run on specific branches or tags. For a pull_request
+# [MORE]    event, only branches and tags on the base are evaluated.
+# [VALUE]  "main"
+# [INFO]    Push events on main branch
+on: push
+
+# [SYNTAX]  jobs.<job_id>.runs-on
+# [INFO]    The type of machine to run the job on. The machine can be either a
+# [MORE]    GitHub-hosted runner or a self-hosted runner.
+
+# [SYNTAX]  jobs.<job_id>.steps[*].uses
+# [INFO]    Selects an action to run as part of a step in your job. An action is a
+# [MORE]    reusable unit of code. You can use an action defined in the same repository
+# [MORE]    as the workflow, a public repository, or in a published Docker container image.
+jobs:
+  # <job-id>: markdown-check-links
+  markdown-check-links:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: gaurav-nelson/github-action-markdown-link-check@v1

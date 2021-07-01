@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   role="img"
+   viewBox="0 0 11.5 14.000001"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="PyTorch.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   width="11.5"
+   height="14.000001">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>PyTorch icon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="14.25629"
+     inkscape:cx="8.1135322"
+     inkscape:cy="5.2091632"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <title
+     id="title2">PyTorch icon</title>
+  <path
+     d="M 5.7527401,0 1.6863718,4.1143285 a 5.687611,5.7546931 0 0 0 0,8.1796565 5.6881875,5.7552765 0 0 0 8.0843064,0 C 12.067629,10.018941 12.068783,6.3409536 9.8196702,4.1137451 L 8.8141844,5.1305143 c 1.6742826,1.6946153 1.6742826,4.4532523 0,6.1472847 -1.6742854,1.694032 -4.4013414,1.694032 -6.0756254,0 -1.6742848,-1.6940324 -1.6742848,-4.4532524 0,-6.1472847 l 2.6792051,-2.7102181 0.33555,-0.387924 z M 7.80985,2.2744601 A 0.76507447,0.7740981 0 0 0 7.0447758,3.0485582 0.76507447,0.7740981 0 0 0 7.80985,3.8232396 0.76507447,0.7740981 0 0 0 8.5749249,3.0485582 0.76507447,0.7740981 0 0 0 7.80985,2.2750434 Z"
+     id="path4"
+     style="fill:#ee4c2c;fill-opacity:1;stroke-width:0.579935" />
+</svg>

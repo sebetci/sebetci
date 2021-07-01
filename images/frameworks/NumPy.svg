@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   role="img"
+   viewBox="0 0 13.2 14"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="NumPy.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   width="13.2"
+   height="14">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>NumPy icon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="14.25629"
+     inkscape:cx="5.777742"
+     inkscape:cy="7.6045666"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <title
+     id="title2">NumPy icon</title>
+  <g
+     id="g890"
+     transform="matrix(0.5878345,0,0,0.58333333,-0.45439607,0)">
+    <g
+       id="g878">
+      <path
+         d="M 11.2062,11.571 8.0333,9.9756 v 6.895 c 0,0 -3.8804,-8.2564 -4.2399,-8.998 C 3.7471,7.7769 3.5563,7.6719 3.5076,7.6464 2.8118,7.2812 0.773,6.2485 0.773,6.2485 V 18.43 l 2.8204,1.5076 v -6.3674 c 0,0 3.8392,7.3775 3.878,7.458 0.0389,0.0807 0.4245,0.8582 0.8362,1.1314 0.5485,0.363 2.8992,1.7766 2.8992,1.7766 z"
+         id="path867"
+         style="fill:#4d77cf;fill-opacity:1" />
+      <path
+         d="M 23.2283,11.641 V 6.4214 l -4.0253,2.001 0.0034,5.2633 z"
+         id="path865"
+         style="fill:#4dabcf;fill-opacity:1" />
+      <path
+         d="m 23.2283,13.5036 v 5.327 l -4.0178,2.0052 -0.0029,-5.3028 z"
+         id="path863"
+         style="fill:#4dabcf;fill-opacity:1" />
+      <path
+         d="m 17.573,14.4881 -0.0052,-5.2528 -4.6985,2.3356 v 5.2546 z"
+         id="path861"
+         style="fill:#4dabcf;fill-opacity:1" />
+      <path
+         d="M 12.8693,18.6938 V 24 L 17.58,21.6493 17.5747,16.3408 Z"
+         id="path859"
+         style="fill:#4dabcf;fill-opacity:1" />
+      <path
+         d="M 15.9094,1.9495 12.021,0 8.1742,1.9193 12.181,3.9401 Z"
+         id="path857"
+         style="fill:#4dabcf;fill-opacity:1" />
+      <path
+         d="m 17.7684,2.8824 4.3193,2.1658 -3.863,1.9402 -4.2131,-2.1252 z"
+         id="path855"
+         style="fill:#4dabcf;fill-opacity:1" />
+      <path
+         d="M 12.1531,5.8037 16.3576,7.926 11.9954,10.1166 7.8704,8.0448 Z"
+         id="path853"
+         style="fill:#4dabcf;fill-opacity:1" />
+      <path
+         d="M 10.315,4.876 6.3048,2.8517 1.9038,5.0482 6.0224,7.1165 Z"
+         id="path4"
+         style="fill:#4dabcf;fill-opacity:1" />
+    </g>
+  </g>
+</svg>

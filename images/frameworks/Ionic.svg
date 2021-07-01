@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   role="img"
+   viewBox="0 0 14 14"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="Ionic.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   width="14"
+   height="14">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Ionic icon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="14.25629"
+     inkscape:cx="22.715058"
+     inkscape:cy="13.056614"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <title
+     id="title2">Ionic icon</title>
+  <path
+     d="m 13.370583,4.0985137 -0.06008,-0.1341665 -0.09858,0.1096665 c -0.238,0.2706663 -0.541334,0.4783327 -0.877917,0.6043325 l -0.09275,0.035583 0.0385,0.090416 a 5.6845833,5.6845755 0 0 1 0.4375,2.192747 c 0,3.1529118 -2.564917,5.7201588 -5.7201667,5.7201588 -3.15525,0 -5.7178333,-2.564913 -5.7178333,-5.7178255 0,-3.1529123 2.5678333,-5.7201587 5.7201667,-5.7201587 0.85575,0 1.68175,0.186083 2.45,0.5524159 l 0.090417,0.04375 0.0385,-0.090417 A 2.1974167,2.1974136 0 0 1 10.2235,0.93743467 l 0.114917,-0.0927499 -0.13125,-0.0682499 A 6.9445833,6.9445738 0 0 0 7,1.9290345e-5 C 3.1389167,1.9290345e-5 0,3.1389317 0,7.0000097 0,10.861088 3.1389167,14 7,14 10.861083,14 14,10.861088 14,7.0000097 14,5.9908444 13.789417,5.0149291 13.371167,4.099097 Z M 6.9994167,3.8085974 A 3.1943333,3.1943289 0 0 0 3.8085833,6.9994263 3.1943333,3.1943289 0 0 0 6.9994167,10.190255 3.1943333,3.1943289 0 0 0 10.19025,6.9994263 3.1960833,3.1960789 0 0 0 6.9994167,3.8085974 Z M 13.034,2.637849 a 1.4548335,1.4548315 0 1 1 -2.909667,0 1.4548335,1.4548315 0 0 1 2.909667,0 z"
+     id="path4"
+     style="fill:#3880ff;fill-opacity:1;stroke-width:0.583333" />
+</svg>

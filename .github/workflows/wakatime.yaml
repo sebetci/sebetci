@@ -1,0 +1,66 @@
+# [TITLE]   WakaTime Metrics
+# [INFO]    This workflow gets language usage statistics from the editor using the 
+# [MORE]    WakaTime API.
+# [LINK]    https://wakatime.com/
+# [LINK]    https://github.com/divykj/wakatime-charts
+
+# [SYNTAX]  name
+# [INFO]    The name of your workflow. GitHub displays the names of your workflows on your
+# [MORE]    repository.
+name: WakaTime Metrics
+
+# [SYNTAX]  on.schedule
+# [INFO]    You can schedule a workflow to run at specific UTC times using POSIX cron syntax.
+# [MORE]    Scheduled workflows run on the latest commit on the default or base branch. 
+# [VALUE]   cron
+# [INFO]    Cron syntax has five fields separated by a space, and each field represents a unit
+# [MORE]    of time. The meanings of the expressions from left to right.
+# [PARAM]   1st Parameter: minute (0-59)
+# [PARAM]   2nd Parameter: hour (0-23)
+# [PARAM]   3rd Parameter: day of the month (1-31)
+# [PARAM]   4th Parameter: month (1-12 or JAN/DEC)
+# [PARAM]   5th Parameter: day of the week (0-6 or SUN-SAT)
+# [SPEC]    '*': Any value
+# [SPEC]    ',': Value list separator
+# [SPEC]    '-': Range of values
+# [SPEC]    '/': Step values
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+# [SYNTAX]  jobs.<job_id>.name
+# [INFO]    The name of the job displayed on GitHub.
+
+# [SYNTAX]  jobs.<job_id>.runs-on
+# [INFO]    The type of machine to run the job on. The machine can be either a
+# [MORE]    GitHub-hosted runner or a self-hosted runner. 
+
+# [SYTAX]   jobs.<job_id>.steps
+# [INFO]    A job contains a sequence of tasks called steps. Steps can run commands,
+# [MORE]    run setup tasks, or run an action in your repository, a public repository,
+# [MORE]    or an action published in a Docker registry.  
+
+# [SYNTAX]  jobs.<job_id>.steps[*].uses
+# [INFO]    Selects an action to run as part of a step in your job. An action is a
+# [MORE]    reusable unit of code. You can use an action defined in the same repository
+# [MORE]    as the workflow, a public repository, or in a published Docker container image. 
+
+# [SYNTAX]  jobs.<job_id>.steps[*].with
+# [INFO]    A map of the input parameters defined by the action. Each input parameter is
+# [MORE]    a key/value pair. Input parameters are set as environment variables. The variable
+# [MORE]    is prefixed with INPUT_ and converted to upper case. 
+jobs:
+  # <job-id>: update-wakatime-chart
+  update-wakatime-chart:
+    name: Update WakaTime Stats Charts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: divykj/wakatime-charts@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          BRANCH_NAME: main
+          COMMIT_MESSAGE: wakatime-bot > WakaTime has been updated.
+          IMAGES_FOLDER: images
+          GIT_USER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GIT_USER_NAME: GitHub Action

@@ -1,0 +1,78 @@
+#############################################################################
+#                                     USAGE                                 #                        
+# Library dependencies for the Python code. You need install these with     #
+# `pip install -r requirements.txt` before you can run this.                #                                               
+#############################################################################
+
+#############################################################################
+#                  ESSENTIAL LIBRARIES FOR MAIN FUNCTIONALITY               #
+#############################################################################
+
+# Requests is a simple, yet elegant HTTP library.
+requests>=2.25.1
+
+# Support for type hints
+typing>=3.5
+
+#############################################################################
+#                            REMOTE ACCESS PACKAGES                         #
+#############################################################################
+
+# This package provides a unified command line interface to AWS.
+awscli>=1.19.52
+
+#############################################################################
+#                           TESTING RELATED PACKAGES                        #
+#############################################################################
+
+# Pylint is a Python static code analysis tool which looks for programming
+# errors, helps enforcing a coding standard, sniffs for code smells and offers
+# simple refactoring suggestions.
+pylint>=1.6.5
+
+# The pytest framework makes it easy to write small tests, yet scales to
+# support complex functional testing for applications and libraries. "py.test"
+# file required in root directory.
+pytest>=6.2.3
+
+# This is a py.test plugin for adding to the PYTHONPATH from the pytests.ini
+# file before tests run.
+pytest-pythonpath>=0.7.3
+
+# Allows generation of coverage reports with PyTest.
+pytest-conv>=2.11.1
+
+# Flaky is a plugin for nose or pytest that automatically reruns flaky tests.
+flaky>=3.7.0
+
+# Code coverage testing for Python.
+coverage>=5.5
+
+# Python report uploader for Codecov
+codecov>=2.1.10
+
+#############################################################################
+#                             DOCUMENT RELATED PACKAGES                     #
+#############################################################################
+
+# Builds our documentation. Sphinx is a tool that makes it easy to create
+# intelligent and beautiful documentation for Python projects (or other
+# documents consisting of multiple reStructuredText sources).
+sphinx>=3.5.4
+
+# Rebuild Sphinx documentation on changes, with live-reload in the browser.
+sphinx-autobuild>=2021.3.14
+
+# This package provides the numpydoc Sphinx extension for handling docstrings
+# formatted according to the NumPy documentation format. 
+numpydoc>=1.1.0
+
+# This Sphinx theme was designed to provide a great reader experience for
+# documentation users on both desktop and mobile devices.
+sphinx_rtd_theme>=0.5.2
+
+# Pypandoc provides a thin wrapper for pandoc, a universal document converter.
+pypandoc>=1.5
+
+# Twine is a utility for publishing Python packages on PyPI.
+twine>=3.4.1

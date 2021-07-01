@@ -1,0 +1,23 @@
+###############################################################################
+#                                 CODEOWNERS                                  #
+# Line starting with '#' are comments. Each line is a file pattern followed   #
+# by one or more owners. The '*' pattern is global owners. The last matching  #
+# pattern has the most precedence. The folders are ordered as folows: In each #
+# subsection folders are ordered first by depth, then alphabetically. This    #
+# should make it easy to add new rules without breaking existing ones.        #
+###############################################################################
+
+###############################################################################
+#                                 GLOBAL RULE                                 #
+###############################################################################
+*           @sercansebetci
+
+###############################################################################
+#                               DOCUMENTS SCOPE                               #
+###############################################################################
+/docs/**    sercansebetci@outlook.com
+
+###############################################################################
+#                                IMAGES SCOPE                                 #
+###############################################################################
+/images/**  sercansebetci@outlook.com

@@ -231,8 +231,5 @@
     <a href="https://github.com/sercansebetci/sercansebetci/actions/workflows/wakatime.yaml">
         <img src="https://github.com/sercansebetci/sercansebetci/actions/workflows/wakatime.yaml/badge.svg" alt="WakaTime"/>
     </a>
-    <a href="https://github.com/sercansebetci/sercansebetci/actions/workflows/twitter.yaml">
-        <img src="https://github.com/sercansebetci/sercansebetci/actions/workflows/twitter.yaml/badge.svg" alt="Twitter"/>
-    </a>
 </p>
 </details>

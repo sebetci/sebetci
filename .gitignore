@@ -5,6 +5,11 @@
 # Repository: https://github.com/github/gitignore                           #
 #############################################################################
 
+# Executable Files
+*.exe
+*.out
+*.app
+
 # Node rules:
 ## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt

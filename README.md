@@ -66,13 +66,11 @@
 <div class="header">   
     
 <p align="center">
-    <a href="https://stackexchange.com/users/20485417"><img src="https://stackexchange.com/users/flair/20485417.png?theme=dark" width="208" height="58" alt="profile for Sercan Sebet&#231;i on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Sercan Sebet&#231;i on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+    <a href="https://stackoverflow.com/users/15032688/sercan-sebet%c3%a7i"><img src="https://stackoverflow.com/users/flair/15032688.png?theme=clean" width="208" height="58" alt="profile for Sercan Sebet&#231;i at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sercan Sebet&#231;i at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </p>
     
 <h3 style="color:black;" align="center">Who Am I?</h3>
 
-    
-    
 <p style="color:black;">I love Open Source. I doing research on artificial intelligence and autonomous systems. I plan to publish the results of my research on <kbd><a href="https://www.researchgate.net/profile/Sercan_Sebetci2">ResearchGate</a></kbd>  and <kbd><a href="https://marmara.academia.edu/sercansebetci">Academia</a></kbd>. I aim to share the source code and data I developed during in my research on <kbd><a href="https://github.com/sebetci">GitHub</a></kbd> and <kbd><a href="https://www.kaggle.com/sercansebetci">Kaggle</a></kbd> and to support the community. I worked as an electronic design engineer and embedded software engineer in many companies. I aim to benefit by sharing my experiences with the community on GitHub. At the same time, I think I will learn new things from the community on many issues. I'm recently interested in mobile and game app development.
 </p>
 </div>

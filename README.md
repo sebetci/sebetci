@@ -64,10 +64,12 @@
 [comment]: # "####################################################################"
 
 <div class="header">   
-    
+
+<!--
 <p align="center">
     <a href="https://stackoverflow.com/users/15032688/sercan-sebet%c3%a7i"><img src="https://stackoverflow.com/users/flair/15032688.png?theme=clean" width="208" height="58" alt="profile for Sercan Sebet&#231;i at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sercan Sebet&#231;i at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </p>
+-->
     
 <h3 style="color:black;" align="center">Who Am I?</h3>
 

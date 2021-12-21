@@ -65,10 +65,11 @@
 
 <div class="header">   
 
-<!-- Original Image Size: 208 x 58 -->
+<!-- Original Image Size: 208 x 58
 <p align="center">
     <a href="https://stackoverflow.com/users/15032688/sercan-sebet%c3%a7i"><img src="https://stackoverflow.com/users/flair/15032688.png?theme=dark" width="166" height="46" alt="profile for Sercan Sebet&#231;i at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sercan Sebet&#231;i at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </p>
+-->
     
 <h3 style="color:black;" align="center">Who Am I?</h3>
 

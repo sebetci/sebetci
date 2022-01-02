@@ -150,11 +150,18 @@
                 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sebetci/sebetci?style=flat&labelColor=343b41"/></td>
             </tr>
             <tr border="none" align="center">
-                <td><a href="https://github.com/sebetci"><b>sebetci.github.io</b></a></td>
+                <td><a href="https://github.com/sebetci/sebetci.github.io"><b>sebetci.github.io</b></a></td>
                 <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/sebetci.github.io?style=flate&labelColor=343b41"/></td>
                 <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/sebetci.github.io?style=flat&labelColor=343b41"/></td>
                 <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/sebetci.github.io?style=flat&labelColor=343b41"/></td>
                 <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/sebetci.github.io?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/CodeFormatter"><b>CodeFormatter</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/CodeFormatter?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/CodeFormatter?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/CodeFormatter?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/CodeFormatter?style=flat&labelColor=343b41"/></td>
             </tr>
         </tbody>
     </table>

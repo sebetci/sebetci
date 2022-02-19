@@ -178,6 +178,13 @@
                 <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/CodeFormatter?style=flat&labelColor=343b41"/></td>
                 <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/CodeFormatter?style=flat&labelColor=343b41"/></td>
             </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/Enterprise-Application"><b>Enterprise-Application</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/Enterprise-Application?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/Enterprise-Application?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/Enterprise-Application?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/Enterprise-Application?style=flat&labelColor=343b41"/></td>
+            </tr>
         </tbody>
     </table>
 </details>

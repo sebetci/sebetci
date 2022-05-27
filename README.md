@@ -185,6 +185,20 @@
                 <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/Enterprise-Application?style=flat&labelColor=343b41"/></td>
                 <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/Enterprise-Application?style=flat&labelColor=343b41"/></td>
             </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/Batch-Script-Utils"><b>Batch-Script-Utils</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/Batch-Script-Utils?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/Batch-Script-Utils?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/Batch-Script-Utils?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/Batch-Script-Utils?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/Batch-Script-Basics"><b>Batch-Script-Basics</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/Batch-Script-Basics?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/Batch-Script-Basics?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/Batch-Script-Basics?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/Batch-Script-Basics?style=flat&labelColor=343b41"/></td>
+            </tr>
         </tbody>
     </table>
 </details>

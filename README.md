@@ -258,8 +258,5 @@
     <a href="https://github.com/sebetci/sebetci/actions/workflows/metrics.yaml">
         <img src="https://github.com/sebetci/sebetci/actions/workflows/metrics.yaml/badge.svg?branch=main" alt="Metrics"/>
     </a>
-    <a href="https://github.com/sebetci/sebetci/actions/workflows/wakatime.yaml">
-        <img src="https://github.com/sebetci/sebetci/actions/workflows/wakatime.yaml/badge.svg" alt="WakaTime"/>
-    </a>
 </p>
 </details>

@@ -484,9 +484,6 @@
     <a href="https://github.com/sebetci/sebetci">
         <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"/>
     </a>
-    <a href="https://github.com/sebetci/sebetci">
-        <img src="https://visitor-badge.glitch.me/badge?page_id=sebetci.sebetci" alt="Visitors"/>
-    </a>
     <a href="https://github.com/sebetci/">
         <img src="https://badgen.net/badge/Open%20Source/Yes/blue?icon=github" alt="Open Source"/>
     </a>

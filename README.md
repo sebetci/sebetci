@@ -178,6 +178,251 @@
                 <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/CodeFormatter?style=flat&labelColor=343b41"/></td>
                 <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/CodeFormatter?style=flat&labelColor=343b41"/></td>
             </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/WebSocket.SocketIO.App.ChatDad"><b>WebSocket.SocketIO.App.ChatDad</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/WebSocket.SocketIO.App.ChatDad?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/WebSocket.SocketIO.App.ChatDad?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/WebSocket.SocketIO.App.ChatDad?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/WebSocket.SocketIO.App.ChatDad?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/WebSocket.SocketIO.App.LiveBalls"><b>WebSocket.SocketIO.App.LiveBalls</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/WebSocket.SocketIO.App.LiveBalls?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/WebSocket.SocketIO.App.LiveBalls?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/WebSocket.SocketIO.App.LiveBalls?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/WebSocket.SocketIO.App.LiveBalls?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/Node.js-Docs"><b>Node.js-Docs</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/Node.js-Docs?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/Node.js-Docs?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/Node.js-Docs?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/Node.js-Docs?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/WebSocket.SocketIO"><b>WebSocket.SocketIO</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/WebSocket.SocketIO?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/WebSocket.SocketIO?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/WebSocket.SocketIO?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/WebSocket.SocketIO?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/QT-WIDGET-FUNDAMENTALS"><b>QT-WIDGET-FUNDAMENTALS</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/QT-WIDGET-FUNDAMENTALS?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/QT-WIDGET-FUNDAMENTALS?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/QT-WIDGET-FUNDAMENTALS?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/QT-WIDGET-FUNDAMENTALS?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/C-Fundamentals"><b>C-Fundamentals</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/C-Fundamentals?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/C-Fundamentals?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/C-Fundamentals?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/C-Fundamentals?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/ExpressMovieRestAPI"><b>ExpressMovieRestAPI</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/ExpressMovieRestAPI?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/ExpressMovieRestAPI?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/ExpressMovieRestAPI?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/ExpressMovieRestAPI?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/JavaScript-Apps"><b>JavaScript-Apps</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/JavaScript-Apps?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/JavaScript-Apps?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/JavaScript-Apps?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/JavaScript-Apps?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/JavaScript-Fundamentals"><b>JavaScript-Fundamentals</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/JavaScript-Fundamentals?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/JavaScript-Fundamentals?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/JavaScript-Fundamentals?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/JavaScript-Fundamentals?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/ADO.NET"><b>ADO.NET</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/ADO.NET?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/ADO.NET?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/ADO.NET?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/ADO.NET?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/QML-Fundamentals"><b>QML-Fundamentals</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/QML-Fundamentals?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/QML-Fundamentals?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/QML-Fundamentals?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/QML-Fundamentals?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/Core"><b>Core</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/Core?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/Core?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/Core?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/Core?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/Batch-Script-Fundamentals"><b>Batch-Script-Fundamentals</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/Batch-Script-Fundamentals?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/Batch-Script-Fundamentals?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/Batch-Script-Fundamentals?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/Batch-Script-Fundamentals?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/jQuery-Fundamentals"><b>jQuery-Fundamentals</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/jQuery-Fundamentals?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/jQuery-Fundamentals?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/jQuery-Fundamentals?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/jQuery-Fundamentals?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/CSharp-Fundamentals"><b>CSharp-Fundamentals</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/CSharp-Fundamentals?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/CSharp-Fundamentals?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/CSharp-Fundamentals?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/CSharp-Fundamentals?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/CleanCode-Apps"><b>CleanCode-Apps</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/CleanCode-Apps?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/CleanCode-Apps?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/CleanCode-Apps?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/CleanCode-Apps?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/Entity-Framework"><b>Entity-Framework</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/Entity-Framework?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/Entity-Framework?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/Entity-Framework?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/Entity-Framework?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/CleanCode-Docs"><b>CleanCode-Docs</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/CleanCode-Docs?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/CleanCode-Docs?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/CleanCode-Docs?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/CleanCode-Docs?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/MVC"><b>MVC</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/MVC?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/MVC?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/MVC?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/MVC?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/CPP-Fundamentals"><b>CPP-Fundamentals</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/CPP-Fundamentals?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/CPP-Fundamentals?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/CPP-Fundamentals?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/CPP-Fundamentals?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/Node.js-Apps"><b>Node.js-Apps</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/Node.js-Apps?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/Node.js-Apps?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/Node.js-Apps?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/Node.js-Apps?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/WEB-Apps"><b>WEB-Apps</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/WEB-Apps?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/WEB-Apps?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/WEB-Apps?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/WEB-Apps?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/ASP.NET"><b>ASP.NET</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/ASP.NET?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/ASP.NET?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/ASP.NET?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/ASP.NET?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/jQuery-Apps"><b>jQuery-Apps</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/jQuery-Apps?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/jQuery-Apps?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/jQuery-Apps?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/jQuery-Apps?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/Windows-Forms"><b>Windows-Forms</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/Windows-Forms?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/Windows-Forms?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/Windows-Forms?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/Windows-Forms?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/HMI.TCP.CLIENT"><b>HMI.TCP.CLIENT</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/HMI.TCP.CLIENT?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/HMI.TCP.CLIENT?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/HMI.TCP.CLIENT?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/HMI.TCP.CLIENT?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/HMI.TCP.SERVER"><b>HMI.TCP.SERVER</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/HMI.TCP.SERVER?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/HMI.TCP.SERVER?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/HMI.TCP.SERVER?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/HMI.TCP.SERVER?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/Node-Apps"><b>Node-Apps</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/Node-Apps?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/Node-Apps?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/Node-Apps?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/Node-Apps?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/Android-Apps"><b>Android-Apps</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/Android-Apps?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/Android-Apps?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/Android-Apps?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/Android-Apps?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/SHW-MCS"><b>SHW-MCS</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/SHW-MCS?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/SHW-MCS?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/SHW-MCS?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/SHW-MCS?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/CSharp-Docs"><b>CSharp-Docs</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/CSharp-Docs?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/CSharp-Docs?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/CSharp-Docs?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/CSharp-Docs?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/Java-Docs"><b>Java-Docs</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/Java-Docs?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/Java-Docs?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/Java-Docs?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/Java-Docs?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/Java-Fundamentals"><b>Java-Fundamentals</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/Java-Fundamentals?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/Java-Fundamentals?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/Java-Fundamentals?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/Java-Fundamentals?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/Angular-Docs"><b>Angular-Docs</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/Angular-Docs?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/Angular-Docs?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/Angular-Docs?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/Angular-Docs?style=flat&labelColor=343b41"/></td>
+            </tr>
+            <tr border="none" align="center">
+                <td><a href="https://github.com/sebetci/NET-Docs"><b>NET-Docs</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/NET-Docs?style=flate&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/NET-Docs?style=flat&labelColor=343b41"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/NET-Docs?style=flat&labelColor=343b41"/></td>
+                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/NET-Docs?style=flat&labelColor=343b41"/></td>
+            </tr>
         </tbody>
     </table>
 </details>

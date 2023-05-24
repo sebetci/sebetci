@@ -326,13 +326,6 @@
                 <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/Node.js-Apps?style=flat&labelColor=343b41"/></td>
             </tr>
             <tr border="none" align="center">
-                <td><a href="https://github.com/sebetci/WEB-Apps"><b>WEB-Apps</b></a></td>
-                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/WEB-Apps?style=flate&labelColor=343b41"/></td>
-                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/WEB-Apps?style=flat&labelColor=343b41"/></td>
-                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/WEB-Apps?style=flat&labelColor=343b41"/></td>
-                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/WEB-Apps?style=flat&labelColor=343b41"/></td>
-            </tr>
-            <tr border="none" align="center">
                 <td><a href="https://github.com/sebetci/ASP.NET"><b>ASP.NET</b></a></td>
                 <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/ASP.NET?style=flate&labelColor=343b41"/></td>
                 <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/ASP.NET?style=flat&labelColor=343b41"/></td>

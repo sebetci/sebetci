@@ -495,3 +495,223 @@
     </a>
 </p>
 </details>
+
+<details>
+    <summary>Interactions</summary>
+    <table align="center" style="margin:0px auto;">
+        <thread align="center">
+            <tr border="none" align="center">
+                <td><b>T</b></td>
+                <td><b>S</b></td>
+                <td><b>Repository</b></td>
+                <td><b>Title</b></td>
+            </tr>
+        </thread>
+        <tbody>
+            <tr border="none" align="left">
+		        <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/microsoft/vscode/issues/137077"><b>microsoft/vscode</b></a></td>
+                <td>"Implement Interface" Option Not Displayed in Right-Click Menu in .NET...</td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/dotnet/docs/issues/25963"><b>dotnet/docs</b></a></td>
+                <td>Fix Suggestion</td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:heavy_check_mark:	</td>
+                <td><a href="https://github.com/atilsamancioglu/A18-TabbedJavaFragment/issues/1"><b>atilsamancioglu/A18-TabbedJavaFragment</b></a></td>
+                <td>[ERROR] ViewModelProviders is deprecated</td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:heavy_check_mark:	</td>
+                <td><a href="https://github.com/atilsamancioglu/A18-TabbedJavaFragment/issues/1"><b>atilsamancioglu/A18-TabbedJavaFragment</b></a></td>
+                <td>[ERROR] ViewModelProviders is deprecated</td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:heavy_check_mark:	</td>
+                <td><a href="https://github.com/atilsamancioglu/A33-RetrofitJava/issues/3"><b>atilsamancioglu/A33-RetrofitJava</b></a></td>
+                <td>[QUESTION] The program doesn't work as expected when making a GET... </td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:heavy_check_mark:	</td>
+                <td><a href="https://github.com/atilsamancioglu/A33-RetrofitJava/issues/2"><b>atilsamancioglu/A33-RetrofitJava</b></a></td>
+                <td>[INFO] About Retrofit and RxJava Latest Versions</td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:heavy_check_mark:	</td>
+                <td><a href="https://github.com/atilsamancioglu/A33-RetrofitJava/issues/1"><b>atilsamancioglu/A33-RetrofitJava</b></a></td>
+                <td>[ERROR] /prices is now a deprecated endpoint in the Nomics...</td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:heavy_check_mark:	</td>
+                <td><a href="https://github.com/npocmaka/batch.scripts/issues/47"><b>npocmaka/batch.scripts</b></a></td>
+                <td>"find" function in binaryTree.bat file doesn't work</td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:heavy_check_mark:	</td>
+                <td><a href="https://github.com/npocmaka/batch.scripts/issues/44"><b>npocmaka/batch.scripts</b></a></td>
+                <td>Fix Suggestion</td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:heavy_check_mark:	</td>
+                <td><a href="https://github.com/geekcomputers/Batch/issues/5"><b>geekcomputers/Batch</b></a></td>
+                <td>Invalid Usage Notice </td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:heavy_check_mark:	</td>
+                <td><a href="https://github.com/voidrealms/qmlb-7-5/issues/1"><b>voidrealms/qmlb-7-5</b></a></td>
+                <td>Problem reading state property</td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/atilsamancioglu/K02-ClassesAndFunctions/issues/1"><b>atilsamancioglu/K02-ClassesAndFunctions</b></a></td>
+                <td>[ERROR] Unresolved Reference TextView, Button, etc.</td>
+            </tr>
+            <tr border="none" align="left">
+		        <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/npocmaka/batch.scripts/issues/43"><b>npocmaka/batch.scripts</b></a></td>
+                <td>Why is the __COMPAT_LAYER variable defined?</td>
+            </tr>
+            <tr border="none" align="left">
+		        <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/voidrealms/qmlb-8-17/issues/1"><b>voidrealms/qmlb-8-17</b></a></td>
+                <td>Logic Error</td>
+            </tr>
+            <tr border="none" align="left">
+		        <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/100/Cranium/issues/15"><b>100/Cranium</b></a></td>
+                <td>Incorrect Variable Naming In Sample Application</td>
+            </tr>
+            <tr border="none" align="left">
+		        <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/sadikturan/komple-web-gelistirme-dersleri/issues/20"><b>sadikturan/komple-web-gelistirme-dersleri</b></a></td>
+                <td>Third Party JavaScript Libraries Not Working in ASP.NET Core MVC Project</td>
+            </tr>
+            <tr border="none" align="left">
+		        <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/OmniSharp/omnisharp-vscode/issues/4890"><b>OmniSharp/omnisharp-vscode</b></a></td>
+                <td>"Implement Interface" Option Not Displayed in Right-Click Menu in .NET...</td>
+            </tr>
+            <tr border="none" align="left">
+		        <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/atilsamancioglu/A46-JavaTravelBook/issues/1"><b>atilsamancioglu/A46-JavaTravelBook</b></a></td>
+                <td>Android App Crashes When It Cannot Find/Connect to GPS</td>
+            </tr>
+            <tr border="none" align="left">
+		        <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/sadikturan/komple-web-gelistirme-dersleri/issues/19"><b>sadikturan/komple-web-gelistirme-dersleri</b></a></td>
+                <td>TS(2322) Error When Using Observable </td>
+            </tr>
+            <tr border="none" align="left">
+		        <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/sadikturan/komple-web-gelistirme-dersleri/issues/18"><b>sadikturan/komple-web-gelistirme-dersleri</b></a></td>
+                <td>Bootstrap Version Issue in Angular Section</td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/sadikturan/komple-web-gelistirme-dersleri/issues/17"><b>sadikturan/komple-web-gelistirme-dersleri</b></a></td>
+                <td>TypeScript Error When Transpiling</td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/sadikturan/komple-web-gelistirme-dersleri/issues/16"><b>sadikturan/komple-web-gelistirme-dersleri</b></a></td>
+                <td>Fix Suggestion</td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/sadikturan/komple-web-gelistirme-dersleri/issues/15"><b>sadikturan/komple-web-gelistirme-dersleri</b></a></td>
+                <td>Non-critical Fix Suggestion</td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/sadikturan/komple-web-gelistirme-dersleri/issues/14"><b>sadikturan/komple-web-gelistirme-dersleri</b></a></td>
+                <td>Fix Suggestion </td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/sadikturan/komple-web-gelistirme-dersleri/issues/13"><b>sadikturan/komple-web-gelistirme-dersleri</b></a></td>
+                <td>Error Using set() and get() Functions in Object.defineProperty() Method</td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/sadikturan/komple-web-gelistirme-dersleri/issues/12"><b>sadikturan/komple-web-gelistirme-dersleri</b></a></td>
+                <td>Responsive Web Page Example Not Working</td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/AndrewLaing/CHowToProgramExercises/issues/5"><b>AndrewLaing/CHowToProgramExercises</b></a></td>
+                <td>Fix Suggestion </td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/AndrewLaing/CHowToProgramExercises/issues/4"><b>AndrewLaing/CHowToProgramExercises</b></a></td>
+                <td>Macro Expansion Proposal</td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/AndrewLaing/CHowToProgramExercises/issues/3"><b>AndrewLaing/CHowToProgramExercises</b></a></td>
+                <td>Fix Suggestion</td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/AndrewLaing/CHowToProgramExercises/issues/2"><b>AndrewLaing/CHowToProgramExercises</b></a></td>
+                <td>Fix Suggestion</td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/pdeitel/CHowtoProgram9e/issues/1"><b>pdeitel/CHowtoProgram9e</b></a></td>
+                <td>Fix Suggestion</td>
+            </tr>
+            <tr border="none" align="left">
+                <td>I</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/AndrewLaing/CHowToProgramExercises/issues/1"><b>AndrewLaing/CHowToProgramExercises</b></a></td>
+                <td>Incorrect Implementation</td>
+            </tr>    
+            <tr border="none" align="left">
+		        <td>PR</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/geekcomputers/Batch/pull/6"><b>geekcomputers/Batch</b></a></td>
+		        <td>Structural improvements on scripts</td>
+            </tr>
+            <tr border="none" align="left">
+		        <td>PR</td>
+                <td>:x:</td>
+                <td><a href="https://github.com/npocmaka/batch.scripts/pull/46"><b>npocmaka/batch.scripts</b></a></td>
+		        <td>Bugs in find function fixed</td>
+            </tr>
+        </tbody>
+    </table>
+</details>

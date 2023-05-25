@@ -1,3 +1,24 @@
+<div align="center">
+    <a href="https://github.com/sebetci/sebetci/">
+        <img src="https://img.shields.io/github/stars/sebetci/sebetci" alt="Stars Badge"/>
+    </a>
+    <a href="https://github.com/sebetci/sebetci/">
+        <img src="https://img.shields.io/github/forks/sebetci/sebetci" alt="Forks Badge"/>
+    </a>
+    <a href="https://github.com/sebetci/sebetci/">
+        <img src="https://img.shields.io/github/issues-pr/sebetci/sebetci" alt="Pull Requests Badge"/>
+    </a>
+    <a href="https://github.com/sebetci/sebetci/">
+        <img src="https://img.shields.io/github/issues/sebetci/sebetci" alt="Issues Badge"/>
+    </a>
+    <a href="https://github.com/sebetci/sebetci/">
+        <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sebetci/sebetci?color=2b9348">
+    </a> 
+    <a href="https://github.com/sebetci/sebetci/">
+        <img src="https://img.shields.io/github/license/sebetci/sebetci?color=2b9348" alt="License Badge"/>
+    </a>
+</div><br>
+
 [comment]: # "####################################################################"
 [comment]: # "Social Networks"
 [comment]: # "In this section, different social media links will be shared to"

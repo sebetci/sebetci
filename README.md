@@ -512,7 +512,7 @@
 		        <td>I</td>
                 <td>:x:</td>
                 <td><a href="https://github.com/microsoft/vscode/issues/137077"><b>microsoft/vscode</b></a></td>
-                <td>"Implement Interface" Option Not Displayed in Right-Click Menu in .NET...</td>
+                <td>Implement Interface" Option Not Displayed in Right-Click Menu...</td>
             </tr>
             <tr border="none" align="left">
                 <td>I</td>
@@ -536,7 +536,7 @@
                 <td>I</td>
                 <td>:heavy_check_mark:	</td>
                 <td><a href="https://github.com/atilsamancioglu/A33-RetrofitJava/issues/3"><b>atilsamancioglu/A33-RetrofitJava</b></a></td>
-                <td>[QUESTION] The program doesn't work as expected when making a GET... </td>
+                <td>[QUESTION] The program doesn't work as expected when making... </td>
             </tr>
             <tr border="none" align="left">
                 <td>I</td>
@@ -602,13 +602,13 @@
 		        <td>I</td>
                 <td>:x:</td>
                 <td><a href="https://github.com/sadikturan/komple-web-gelistirme-dersleri/issues/20"><b>sadikturan/komple-web-gelistirme-dersleri</b></a></td>
-                <td>Third Party JavaScript Libraries Not Working in ASP.NET Core MVC Project</td>
+                <td>Third Party JavaScript Libraries Not Working in ASP.NET Core...</td>
             </tr>
             <tr border="none" align="left">
 		        <td>I</td>
                 <td>:x:</td>
                 <td><a href="https://github.com/OmniSharp/omnisharp-vscode/issues/4890"><b>OmniSharp/omnisharp-vscode</b></a></td>
-                <td>"Implement Interface" Option Not Displayed in Right-Click Menu in .NET...</td>
+                <td>"Implement Interface" Option Not Displayed...</td>
             </tr>
             <tr border="none" align="left">
 		        <td>I</td>
@@ -656,7 +656,7 @@
                 <td>I</td>
                 <td>:x:</td>
                 <td><a href="https://github.com/sadikturan/komple-web-gelistirme-dersleri/issues/13"><b>sadikturan/komple-web-gelistirme-dersleri</b></a></td>
-                <td>Error Using set() and get() Functions in Object.defineProperty() Method</td>
+                <td>Error Using set() and get() Functions...</td>
             </tr>
             <tr border="none" align="left">
                 <td>I</td>

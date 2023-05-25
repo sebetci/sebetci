@@ -715,3 +715,37 @@
         </tbody>
     </table>
 </details>
+
+<details>
+    <summary>Ideas</summary>
+    <table align="center" style="margin:0px auto;">
+        <thread align="center">
+            <tr border="none" align="center">
+                <td><b>Author</b></td>
+                <td><b>Idea</b></td>
+            </tr>
+        </thread>
+        <tbody>
+            <tr border="none" align="left">
+                <td>Robert Sprague</td>
+		        <td>Orwell was an optimist.</td>
+            </tr>
+            <tr border="none" align="left">
+                <td>Flannery O'Connor</td>
+		        <td>I write to discover what I know.</td>
+            </tr>
+            <tr border="none" align="left">
+                <td>Jack Kerouac</td>
+		        <td>One day I will find the right words, and they will be simple.</td>
+            </tr>
+            <tr border="none" align="left">
+		        <td>John Steinbeck</td>
+                <td>And now that you don't have to be perfect, you can be good.</td>
+            </tr>
+            <tr border="none" align="left">
+		        <td>Reid Hoffman</td>
+                <td>If you're not embarrassed by the first version of your product, you've launched too late.</td>
+            </tr>
+        </tbody>
+    </table>
+</details>

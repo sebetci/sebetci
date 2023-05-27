@@ -102,10 +102,17 @@
     
 <h3 style="color:black;" align="center">Who Am I?</h3>
 
-<p style="color:black;">
-    I love the open source mentality. I research on autonomous systems and artificial intelligent. I worked as an electronic design engineer and embedded software engineer in many companies. I aim to benefit by sharing my experiences with the community on GitHub. At the same time, I think I will learn new things from the community on many issues.
-</p>
-</div>
+<details>
+<summary>Personal Characteristics</summary>
+    <p style="color:black;">
+        <ul>
+            <li>A determined, patient and free person</li>
+            <li>A sensitive, observant, excited and obsessed tracker</li>
+            <li>A curious, disciplined, systematic and genuine engineer</li>
+        </ul>
+    </p>
+    </div>
+</details>
 
 [comment]: # "####################################################################"
 [comment]: # "Areas Of Interest"

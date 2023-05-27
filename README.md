@@ -1,3 +1,6 @@
+[comment]: # "####################################################################"
+[comment]: # "Links"
+[comment]: # "####################################################################"
 <div align="center">
     <a href="https://github.com/sebetci/sebetci/">
         <img src="https://img.shields.io/github/stars/sebetci/sebetci" alt="Stars Badge"/>
@@ -20,6 +23,24 @@
 </div><br>
 
 [comment]: # "####################################################################"
+[comment]: # "Personal Information"
+[comment]: # "This partition should have the following components:"
+[comment]: # "(1) Personal Education Information"
+[comment]: # "(2) Personal and Global Purposes"
+[comment]: # "(3) Personal and Global Goals"
+[comment]: # "(4) Personal Interest"
+[comment]: # "(5) Current Technology Stack"
+[comment]: # "(6) Academic Manifesto"
+[comment]: # "(7) Respect for Nature and Peope"
+[comment]: # "(8) Good Statement of Intent"
+[comment]: # "####################################################################"
+<p align="center">
+    <a href="https://stackoverflow.com/users/15032688/sercan-sebet%c3%a7i">
+        <img src="https://stackoverflow.com/users/flair/15032688.png" width="208" height="58" alt="profile for Sercan Sebet&#231;i at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sercan Sebet&#231;i at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+    </a>
+</p>
+
+[comment]: # "####################################################################"
 [comment]: # "Social Networks"
 [comment]: # "In this section, different social media links will be shared to"
 [comment]: # "interact with the community. The order of the icons from left to"
@@ -34,7 +55,6 @@
 [comment]: # "8. Academia"
 [comment]: # "9. Medium"
 [comment]: # "####################################################################"
-
 <p align="center">
 <!-- 
     <a href="https://twitter.com/sercansebetci" target="_blank" rel="nofollow">
@@ -80,38 +100,22 @@
 </p>
 
 [comment]: # "####################################################################"
-[comment]: # "Personal Information"
-[comment]: # "This partition should have the following components:"
-[comment]: # "(1) Personal Education Information"
-[comment]: # "(2) Personal and Global Purposes"
-[comment]: # "(3) Personal and Global Goals"
-[comment]: # "(4) Personal Interest"
-[comment]: # "(5) Current Technology Stack"
-[comment]: # "(6) Academic Manifesto"
-[comment]: # "(7) Respect for Nature and Peope"
-[comment]: # "(8) Good Statement of Intent"
+[comment]: # "Title"
 [comment]: # "####################################################################"
-
-<div class="header">   
-
-<!-- Original Image Size: 208 x 58
-<p align="center">
-    <a href="https://stackoverflow.com/users/15032688/sercan-sebet%c3%a7i"><img src="https://stackoverflow.com/users/flair/15032688.png?theme=dark" width="166" height="46" alt="profile for Sercan Sebet&#231;i at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sercan Sebet&#231;i at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-</p>
--->
+<h2 style="color:black;" align="center">Who Am I?</h2>
     
-<h3 style="color:black;" align="center">Who Am I?</h3>
-
+[comment]: # "####################################################################"
+[comment]: # "Personal Characteristics"
+[comment]: # "####################################################################"
 <details>
 <summary>Personal Characteristics</summary>
     <p style="color:black;">
         <ul>
-            <li>A determined, patient and free person</li>
-            <li>A sensitive, observant, excited and obsessed tracker</li>
-            <li>A curious, disciplined, systematic and genuine engineer</li>
+            <li>A determined, patient and free <b>person</b></li>
+            <li>A sensitive, observant, excited and obsessed <b>tracker</b></li>
+            <li>A curious, disciplined, systematic and genuine <b>engineer</b></li>
         </ul>
     </p>
-    </div>
 </details>
 
 [comment]: # "####################################################################"
@@ -519,46 +523,6 @@
     </table>
 </details>
 
-[comment]: # "####################################################################"
-[comment]: # "Repository Information"
-[comment]: # "Repository information will be checked in this section."
-[comment]: # "Metrics Source: https://github.com/gaurav-nelson/github-action-markdown-link-check"
-[comment]: # "Method: ../.github/workflow/markdown.yaml"
-[comment]: # "Metrics Source: https://github.com/lowlighter/metrics"
-[comment]: # "Method: ../.github/workflow/metrics.yaml"
-[comment]: # "Metrics Source: https://github.com/divykj/wakatime-charts"
-[comment]: # "Method: ../.github/workflow/wakatime.yaml"
-[comment]: # "Metrics Source: https://github.com/r-lib/actions"
-[comment]: # "Method: ../.github/workflow/twitter.yaml"
-[comment]: # "####################################################################"
-
-<details>
-<summary>Repository Information</summary>
-<p align="center">
-     <a href="https://saythanks.io/to/sercansebetci@gmail.com">
-        <img src="https://img.shields.io/badge/Say%20Thanks-Sercan-ffe80c.svg" alt="Say Thanks"/>
-    </a>
-    <a href="https://sebetci.github.io/">
-        <img src="https://img.shields.io/badge/Website-live-ffe80c?style=flat" alt="Portfolio"/>
-    </a>
-    <a href="https://github.com/sebetci/sebetci/pulls">
-        <img src="https://img.shields.io/badge/PRs-new-blueviolet.svg?style=flat" alt="PRs"/>
-    </a>
-    <a href="https://github.com/sebetci/sebetci">
-        <img src="https://img.shields.io/badge/Made%20with-markdown-blue.svg" alt="Made With Markdown"/>
-    </a>
-    <a href="https://github.com/sebetci/sebetci">
-        <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"/>
-    </a>
-    <a href="https://github.com/sebetci/sebetci/actions/workflows/markdown.yaml">
-        <img src="https://github.com/sebetci/sebetci/actions/workflows/markdown.yaml/badge.svg" alt="Markdown"/>
-    </a>
-    <a href="https://github.com/sebetci/sebetci/actions/workflows/metrics.yaml">
-        <img src="https://github.com/sebetci/sebetci/actions/workflows/metrics.yaml/badge.svg?branch=main" alt="Metrics"/>
-    </a>
-</p>
-</details>
-
 <details>
     <summary>Interactions</summary>
     <table align="center" style="margin:0px auto;">
@@ -811,4 +775,44 @@
             </tr>
         </tbody>
     </table>
+</details>
+
+[comment]: # "####################################################################"
+[comment]: # "Repository Information"
+[comment]: # "Repository information will be checked in this section."
+[comment]: # "Metrics Source: https://github.com/gaurav-nelson/github-action-markdown-link-check"
+[comment]: # "Method: ../.github/workflow/markdown.yaml"
+[comment]: # "Metrics Source: https://github.com/lowlighter/metrics"
+[comment]: # "Method: ../.github/workflow/metrics.yaml"
+[comment]: # "Metrics Source: https://github.com/divykj/wakatime-charts"
+[comment]: # "Method: ../.github/workflow/wakatime.yaml"
+[comment]: # "Metrics Source: https://github.com/r-lib/actions"
+[comment]: # "Method: ../.github/workflow/twitter.yaml"
+[comment]: # "####################################################################"
+
+<details>
+<summary>Info</summary>
+<p align="center">
+     <a href="https://saythanks.io/to/sercansebetci@gmail.com">
+        <img src="https://img.shields.io/badge/Say%20Thanks-Sercan-ffe80c.svg" alt="Say Thanks"/>
+    </a>
+    <a href="https://sebetci.github.io/">
+        <img src="https://img.shields.io/badge/Website-live-ffe80c?style=flat" alt="Portfolio"/>
+    </a>
+    <a href="https://github.com/sebetci/sebetci/pulls">
+        <img src="https://img.shields.io/badge/PRs-new-blueviolet.svg?style=flat" alt="PRs"/>
+    </a>
+    <a href="https://github.com/sebetci/sebetci">
+        <img src="https://img.shields.io/badge/Made%20with-markdown-blue.svg" alt="Made With Markdown"/>
+    </a>
+    <a href="https://github.com/sebetci/sebetci">
+        <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"/>
+    </a>
+    <a href="https://github.com/sebetci/sebetci/actions/workflows/markdown.yaml">
+        <img src="https://github.com/sebetci/sebetci/actions/workflows/markdown.yaml/badge.svg" alt="Markdown"/>
+    </a>
+    <a href="https://github.com/sebetci/sebetci/actions/workflows/metrics.yaml">
+        <img src="https://github.com/sebetci/sebetci/actions/workflows/metrics.yaml/badge.svg?branch=main" alt="Metrics"/>
+    </a>
+</p>
 </details>

@@ -327,22 +327,6 @@
                 <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/Windows-Forms?style=flat&labelColor=343b41"/></td>
             </tr>
             <tr border="none" align="center">
-                <td><a href="https://github.com/sebetci/HMI.TCP.CLIENT"><b>HMI.TCP.CLIENT</b></a></td>
-                <td>Qt, QML, C++, JavaScript</td>
-                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/HMI.TCP.CLIENT?style=flate&labelColor=343b41"/></td>
-                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/HMI.TCP.CLIENT?style=flat&labelColor=343b41"/></td>
-                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/HMI.TCP.CLIENT?style=flat&labelColor=343b41"/></td>
-                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/HMI.TCP.CLIENT?style=flat&labelColor=343b41"/></td>
-            </tr>
-            <tr border="none" align="center">
-                <td><a href="https://github.com/sebetci/HMI.TCP.SERVER"><b>HMI.TCP.SERVER</b></a></td>
-                <td>Qt, Widget, C++, QMake</td>
-                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/HMI.TCP.SERVER?style=flate&labelColor=343b41"/></td>
-                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/HMI.TCP.SERVER?style=flat&labelColor=343b41"/></td>
-                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/HMI.TCP.SERVER?style=flat&labelColor=343b41"/></td>
-                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/HMI.TCP.SERVER?style=flat&labelColor=343b41"/></td>
-            </tr>
-            <tr border="none" align="center">
                 <td><a href="https://github.com/sebetci/Node-Apps"><b>Node-Apps</b></a></td>
                 <td>Node.JS, NPM, JavaScript, HTML, CSS</td>
                 <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/Node-Apps?style=flate&labelColor=343b41"/></td>
@@ -357,14 +341,6 @@
                 <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/Android-Apps?style=flat&labelColor=343b41"/></td>
                 <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/Android-Apps?style=flat&labelColor=343b41"/></td>
                 <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/Android-Apps?style=flat&labelColor=343b41"/></td>
-            </tr>
-            <tr border="none" align="center">
-                <td><a href="https://github.com/sebetci/SHW-MCS"><b>SHW-MCS</b></a></td>
-                <td>C++, Qt/QML, Qt/Widget</td>
-                <td><img alt="Stars" src="https://img.shields.io/github/stars/sebetci/SHW-MCS?style=flate&labelColor=343b41"/></td>
-                <td><img alt="Forks" src="https://img.shields.io/github/forks/sebetci/SHW-MCS?style=flat&labelColor=343b41"/></td>
-                <td><img alt="Issues" src="https://img.shields.io/github/issues/sebetci/SHW-MCS?style=flat&labelColor=343b41"/></td>
-                <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/sebetci/SHW-MCS?style=flat&labelColor=343b41"/></td>
             </tr>
             <tr border="none" align="center">
                 <td><a href="https://github.com/sebetci/CodeFormatter"><b>CodeFormatter</b></a></td>

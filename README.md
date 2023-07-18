@@ -479,21 +479,10 @@
         <tbody>
             <tr>
                 <th align="center">Statistics</th>
-                <th align="center">Contributions</th>
             </tr>
             <td align="center">
                 <img alt="" width="400" src="https://github.com/sebetci/sebetci/blob/main/github-metrics.svg">
                 <img width="900" height="1" alt="">
-            </td>
-            <td align="center">
-                <p><b>GitHub User Contributions Graph</b></p>
-                <img alt="" width="400" src="https://raw.githubusercontent.com/sebetci/sebetci/output/github-contribution-grid-snake.svg">
-                <img width="900" height="1" alt="">
-                <br></br>
-                <p><b>User Contributions</b></p>
-                <a href="https://badges.pufler.dev/contributors/sebetci/sebetci?size=50&padding=5&bots=true">
-                    <img src="https://badges.pufler.dev/contributors/sebetci/sebetci?size=50&padding=5&bots=true" alt="Contributing"/>
-                </a>
             </td>
         </tbody>
     </table>

@@ -736,7 +736,7 @@
             </tr>
             <tr border="none" align="left">
 		        <td>Reid Hoffman</td>
-                <td>If you're not embarrassed by the first version of your product, you've launched too late.</td>
+                <td>If you are not embarrassed by the first version of your product, you have launched too late.</td>
             </tr>
         </tbody>
     </table>

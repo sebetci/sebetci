@@ -2,24 +2,15 @@
 [comment]: # "Links"
 [comment]: # "####################################################################"
 <div align="center">
-    <a href="https://github.com/sebetci/sebetci/">
         <img src="https://img.shields.io/github/stars/sebetci/sebetci" alt="Stars Badge"/>
-    </a>
-    <a href="https://github.com/sebetci/sebetci/">
         <img src="https://img.shields.io/github/forks/sebetci/sebetci" alt="Forks Badge"/>
-    </a>
-    <a href="https://github.com/sebetci/sebetci/">
+</div>
+
+<div  align="center">
         <img src="https://img.shields.io/github/issues-pr/sebetci/sebetci" alt="Pull Requests Badge"/>
-    </a>
-    <a href="https://github.com/sebetci/sebetci/">
         <img src="https://img.shields.io/github/issues/sebetci/sebetci" alt="Issues Badge"/>
-    </a>
-    <a href="https://github.com/sebetci/sebetci/">
         <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sebetci/sebetci?color=2b9348">
-    </a> 
-    <a href="https://github.com/sebetci/sebetci/">
         <img src="https://img.shields.io/github/license/sebetci/sebetci?color=2b9348" alt="License Badge"/>
-    </a>
 </div><br>
 
 [comment]: # "####################################################################"
@@ -38,65 +29,6 @@
     <a href="https://stackoverflow.com/users/15032688/sercan-sebet%c3%a7i">
         <img src="https://stackoverflow.com/users/flair/15032688.png" width="208" height="58" alt="profile for Sercan Sebet&#231;i at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sercan Sebet&#231;i at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
     </a>
-</p>
-
-[comment]: # "####################################################################"
-[comment]: # "Social Networks"
-[comment]: # "In this section, different social media links will be shared to"
-[comment]: # "interact with the community. The order of the icons from left to"
-[comment]: # "right is below:"
-[comment]: # "1. Twitter"
-[comment]: # "2. GitHub"
-[comment]: # "3. HashNode"
-[comment]: # "4. Reddit"
-[comment]: # "5. StackOverflow"
-[comment]: # "6. Kaggle"
-[comment]: # "7. HackerRank"
-[comment]: # "8. Academia"
-[comment]: # "9. Medium"
-[comment]: # "####################################################################"
-<p align="center">
-<!-- 
-    <a href="https://twitter.com/sercansebetci" target="_blank" rel="nofollow">
-        <img src="https://github.com/sebetci/sebetci/blob/main/images/networks/twitter.svg" alt="Twitter" width="30px" height="30px" />
-    </a> &nbsp;
--->
-    <a href="https://github.com/sebetci" target="_blank" rel="nofollow">
-        <img src="https://github.com/sebetci/sebetci/blob/main/images/networks/github.svg" alt="GitHub" width="30px" height="30px" />
-    </a> &nbsp;
-<!--
-    <a href="https://dev.to/@sercan" target="_blank" rel="nofollow">
-        <img src="https://github.com/sebetci/sebetci/blob/main/images/networks/dev.svg" alt="Dev.To" width="30px" height="30px" />
-    </a> &nbsp;
-    <a href="https://hashnode.com/@sercan" target="_blank" rel="nofollow">
-        <img src="https://github.com/sebetci/sebetci/blob/main/images/networks/hashnode.svg" alt="HashNode" width="30px" height="30px" />
-    </a> &nbsp;
-    <a href="https://www.reddit.com/user/sercansebetci" target="_blank" rel="nofollow">
-        <img src="https://github.com/sebetci/sebetci/blob/main/images/networks/reddit.svg" alt="Reddit" width="30px" height="30px" />
-    </a> &nbsp;
--->
-    <a href="https://stackoverflow.com/users/15032688/" target="_blank" rel="nofollow">
-        <img src="https://github.com/sebetci/sebetci/blob/main/images/networks/stackoverflow.svg" alt="StackOverflow" width="30px" height="30px" />
-    </a> &nbsp;
-<!--
-    <a href="https://www.kaggle.com/sercansebetci" target="_blank" rel="nofollow">
-        <img src="https://github.com/sebetci/sebetci/blob/main/images/networks/kaggle.svg" alt="Kaggle" width="30px" height="30px" />
-    </a> &nbsp;
-    <a href="https://www.hackerrank.com/sercansebetci" target="_blank" rel="nofollow" style="width:200%">
-        <img src="https://github.com/sebetci/sebetci/blob/main/images/networks/hackerrank.svg" alt="HackerRank" width="30px" height="30px" />
-    </a> &nbsp;
-    <a href="https://codepen.io/sercansebetci" rel="nofollow" style="width:200%">
-        <img src="https://github.com/sebetci/sebetci/blob/main/images/networks/codepen.svg" alt="CodePen" width="30px" height="30px" />
-    </a> &nbsp;
--->
-    <a href="https://marmara.academia.edu/sercansebetci" target="_blank" rel="nofollow" style="width:200%">
-        <img src="https://github.com/sebetci/sebetci/blob/main/images/networks/academia.svg" alt="Academia" width="30px" height="30px" />
-    </a> &nbsp;
-<!--
-    <a href="https://medium.com/@sercansebetci" target="_blank" rel="nofollow" style="width:200%">
-        <img src="https://github.com/sebetci/sebetci/blob/main/images/networks/medium.svg" alt="Medium" width="30px" height="30px" />
-    </a> &nbsp;
--->
 </p>
 
 [comment]: # "####################################################################"
@@ -758,26 +690,12 @@
 <details>
 <summary>Info</summary>
 <p align="center">
-     <a href="https://saythanks.io/to/sercansebetci@gmail.com">
         <img src="https://img.shields.io/badge/Say%20Thanks-Sercan-ffe80c.svg" alt="Say Thanks"/>
-    </a>
-    <a href="https://sebetci.github.io/">
         <img src="https://img.shields.io/badge/Website-live-ffe80c?style=flat" alt="Portfolio"/>
-    </a>
-    <a href="https://github.com/sebetci/sebetci/pulls">
         <img src="https://img.shields.io/badge/PRs-new-blueviolet.svg?style=flat" alt="PRs"/>
-    </a>
-    <a href="https://github.com/sebetci/sebetci">
         <img src="https://img.shields.io/badge/Made%20with-markdown-blue.svg" alt="Made With Markdown"/>
-    </a>
-    <a href="https://github.com/sebetci/sebetci">
         <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"/>
-    </a>
-    <a href="https://github.com/sebetci/sebetci/actions/workflows/markdown.yaml">
         <img src="https://github.com/sebetci/sebetci/actions/workflows/markdown.yaml/badge.svg" alt="Markdown"/>
-    </a>
-    <a href="https://github.com/sebetci/sebetci/actions/workflows/metrics.yaml">
         <img src="https://github.com/sebetci/sebetci/actions/workflows/metrics.yaml/badge.svg?branch=main" alt="Metrics"/>
-    </a>
 </p>
 </details>

@@ -667,6 +667,10 @@
                 <td>And now that you don't have to be perfect, you can be good.</td>
             </tr>
             <tr border="none" align="left">
+                <td>Richard Feynman</td>
+		        <td>If you can’t explain something in simple terms, you don’t understand it.</td>
+            </tr>
+            <tr border="none" align="left">
 		        <td>Reid Hoffman</td>
                 <td>If you are not embarrassed by the first version of your product, you have launched too late.</td>
             </tr>
